@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OEL-SCD.iml" filepath="$PROJECT_DIR$/.idea/OEL-SCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../FAMA/hotel room project/.idea/hotel room project.iml" filepath="$PROJECT_DIR$/../../../../FAMA/hotel room project/.idea/hotel room project.iml" />
+    </modules>
+  </component>
+</project>
